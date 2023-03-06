@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="library" level="project" name="java" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+      <element id="javaee-facet-resources" facet="DATABASESQL/web/Web" />
+    </root>
+  </artifact>
+</component>
